@@ -56,6 +56,7 @@
 		226AFFAD22D9282C00CAB5C0 /* Cad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cad.swift; sourceTree = "<group>"; };
 		226AFFAF22D9291D00CAB5C0 /* DSTimeMachineResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DSTimeMachineResult.swift; sourceTree = "<group>"; };
 		226AFFB222D9325400CAB5C0 /* DarkSkyService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkSkyService.swift; sourceTree = "<group>"; };
+		22DCA4F422D95F0B0082752C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +107,7 @@
 		226AFF7722D91A4600CAB5C0 /* Incident Map */ = {
 			isa = PBXGroup;
 			children = (
+				22DCA4F422D95F0B0082752C /* README.md */,
 				226AFF7822D91A4600CAB5C0 /* AppDelegate.swift */,
 				226AFF7C22D91A4600CAB5C0 /* Assets.xcassets */,
 				226AFF7E22D91A4600CAB5C0 /* Main.storyboard */,
