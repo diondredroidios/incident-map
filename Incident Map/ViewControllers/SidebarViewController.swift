@@ -31,7 +31,7 @@ class SidebarViewController: NSViewController {
         super.viewDidLoad()
         
         titleTextField.isHidden = true
-        textView.string = "To start, click File --> Open"
+        textView.isHidden = true
         progressIndicator.isHidden = true
     }
     

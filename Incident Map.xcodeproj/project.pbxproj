@@ -87,6 +87,7 @@
 		226AFF6C22D91A4600CAB5C0 = {
 			isa = PBXGroup;
 			children = (
+				22DCA4F422D95F0B0082752C /* README.md */,
 				226AFF7722D91A4600CAB5C0 /* Incident Map */,
 				226AFF8A22D91A4600CAB5C0 /* Incident MapTests */,
 				226AFF9522D91A4600CAB5C0 /* Incident MapUITests */,
@@ -107,7 +108,6 @@
 		226AFF7722D91A4600CAB5C0 /* Incident Map */ = {
 			isa = PBXGroup;
 			children = (
-				22DCA4F422D95F0B0082752C /* README.md */,
 				226AFF7822D91A4600CAB5C0 /* AppDelegate.swift */,
 				226AFF7C22D91A4600CAB5C0 /* Assets.xcassets */,
 				226AFF7E22D91A4600CAB5C0 /* Main.storyboard */,
